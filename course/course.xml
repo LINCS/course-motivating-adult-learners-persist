@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="132" contextid="14998">
+  <shortname>Motivating Adult Learners Persist</shortname>
+  <fullname>Motivating Adult Learners to Persist</fullname>
+  <idnumber></idnumber>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>0</newsitems>
+  <startdate>1431921600</startdate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme>lincs</theme>
+  <timecreated>1431956114</timecreated>
+  <timemodified>1443703255</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>7</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>1</coursedisplay>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>1</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>2</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <category id="19">
+    <name>Teacher Effectiveness</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="138" moduleid="4994" modulename="resource" contextid="15003">
+  <resource id="138">
+    <name>Glossary</name>
+    <intro>&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;The glossary provides definitions of acronyms and terms used in this course and in the literature on teacher effectiveness, competencies, and induction. &lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>4</revision>
+    <timemodified>1439912626</timemodified>
+  </resource>
+</activity>

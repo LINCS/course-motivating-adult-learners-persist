@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="171" moduleid="4993" modulename="journal" contextid="15002">
+  <journal id="171">
+    <name>Journal</name>
+    <intro>&lt;h4&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Directions: &lt;br /&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Use this journal to write your thoughts as you go through the course. You can access it from here in the Course Overview section, the Navigation block, or by clicking on the &lt;a title="Journal Link" href="$@JOURNALVIEWBYID*4993@$"&gt;&lt;img src="@@PLUGINFILE@@/Information%20Systems%20book%20icon.png" alt="Journal Link" height="29" width="23" /&gt;&lt;/a&gt; anywhere you see it in the course. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 60px;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;To begin, click the "Start or edit my journal entry" button below.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;You can use the print feature of your web browser to print copies of your journal at any time.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt; &lt;/p&gt;
+&lt;p style="text-align: left;"&gt; &lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;a title="Main Course Page" href="$@COURSEVIEWBYID*132@$"&gt;Return to main course page&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <days>0</days>
+    <grade>0</grade>
+    <timemodified>1439915341</timemodified>
+    <entries>
+    </entries>
+  </journal>
+</activity>

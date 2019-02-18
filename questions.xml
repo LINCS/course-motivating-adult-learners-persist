@@ -1,0 +1,2340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="158">
+    <name>Default for Strategy Matching Activity</name>
+    <contextid>15018</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>5009</contextinstanceid>
+    <info>The default category for questions shared in context 'Strategy Matching Activity'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150601193107+s36eQ5</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="159">
+    <name>Default for MotivatingAdultLearners_Persist</name>
+    <contextid>14998</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>132</contextinstanceid>
+    <info>The default category for questions shared in context 'MotivatingAdultLearners_Persist'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150601193107+MEO8DQ</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="979">
+        <parent>0</parent>
+        <name>Strategy Matching Activity</name>
+        <questiontext>&lt;p&gt;&lt;span&gt;The following ideas about building motivation and persistence were shared by educators who took this course previously. Read each description and then match it to the Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150601195911+scIyH8</stamp>
+        <version>courses.lincs.ed.gov+151003012100+faO8Hw</version>
+        <hidden>1</hidden>
+        <timecreated>1433188751</timecreated>
+        <timemodified>1443835259</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="73">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="387">
+              <questiontext>&lt;p&gt;I set up a phone tree so that if a peer is absent, she receives a phone call from a classmate asking how she is, why she missed, whether she'll be back the next class. A learner would also use the phone tree to call someone if she was going to be absent and wanted to pass that message on to her classmates and the teacher.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Encouraging collaboration and cooperation</answertext>
+            </match>
+            <match id="388">
+              <questiontext>&lt;p&gt;Our curriculum includes career exploration, and we provide information on bridge and technical programs at our college. We ask students to look at their long-term goal and then help them break it down into the doable steps, the short-term goals that will get them there&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Setting appropriate goals</answertext>
+            </match>
+            <match id="389">
+              <questiontext>&lt;p&gt;Students want and need to know how they are progressing. One thing I do is give out a lot of quizzes—not to scare my students, but to show them how much they are learning. I am to the point now in my classes that my students come in the door and ask if we are having a quiz tonight because they want to take them.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Finding value</answertext>
+            </match>
+            <match id="390">
+              <questiontext>&lt;p&gt;How do students see errors? I have been thinking of this for some time now. I prefer not to mark on the students' essays but to talk with them, one on one, about their strengths. Then I choose One Thing from their essay for them to work on. If you tell them everything that is wrong with their paper, they will be overwhelmed. I merely say, "Let's just work on X for now."&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Offering feedback to build a growth mindset</answertext>
+            </match>
+            <match id="391">
+              <questiontext>&lt;p&gt;Sometimes we think that we need to figure everything out rather than involving the students, as part of a learning community, in sorting things out together. I’ve had lots of conversations with students about the idea of persistence—what it is, why they think it matters, how they have persisted in other aspects of their lives, etc. All of those conversations have helped build problem-solving skills, helped students understand that in adult education they are taking responsibility for their learning, and directed their attention to strengths that they can build on in order to succeed.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Reframing explanations in ways that motivate persistence</answertext>
+            </match>
+            <match id="392">
+              <questiontext>&lt;p&gt;We offer on-site childcare for the family literacy students. All students have access to bus tokens to help with transportation. We have the opportunity to work with local agencies to provide glasses and other services as needed. Our area has a Community Collaboration meeting each month where local agencies come together to offer what they have available to best serve the community. As students approach the instructors with their individual needs, instructors can offer referrals that enable the student to resolve current barriers.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Overcoming systemic barriers to persistence</answertext>
+            </match>
+            <match id="393">
+              <questiontext>&lt;p&gt;Our ESL program reaches out to students &lt;em&gt;before&lt;/em&gt; they enroll. When students come to inquire about ESL classes, they are first scheduled for a 3-hour workshop. During this workshop, we explain our program, the progression of levels, and bridge program opportunities. We also discuss the time and level of commitment necessary to be successful and the need to set goals. Students have time to discuss in groups the various roles they have in life (mother, employee, etc.) and the barriers they face that make it difficult to come to school. They also discuss possible solutions to those barriers and the importance of planning to avert problems. Students are asked to discuss these issues with their families before returning to school to register for classes. I have noticed improved attendance and more students completing assignments outside of class since these workshops have been running. New teachers are encouraged to attend a workshop and help facilitate groups in order to better understand what our program is trying to accomplish and the barriers faced by students. &lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Encouraging collaboration and cooperation and overcoming systemic barriers</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="980">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;What are three areas that research indicates classroom teachers should consider in relation to student motivation? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150602123308+fAymo8</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150813204937+A1ltuV</version>
+        <hidden>1</hidden>
+        <timecreated>1433248388</timecreated>
+        <timemodified>1439498975</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2912">
+              <answertext>&lt;p&gt;&lt;span class="nolink"&gt;setting appropriate goals&lt;/span&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2913">
+              <answertext>&lt;p&gt;monitoring progress &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2914">
+              <answertext>&lt;p&gt;providing appropriate feedback &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2915">
+              <answertext>&lt;p&gt;enforcing enrollment policies &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="487">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="981">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p&gt;Teaching digital literacy is motivational because it involves skills that students find relevant and useful. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150602123354+hdWSS5</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150602123356+h7Wolp</version>
+        <hidden>1</hidden>
+        <timecreated>1433248434</timecreated>
+        <timemodified>1433248434</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2916">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2917">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="112">
+            <trueanswer>2916</trueanswer>
+            <falseanswer>2917</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="982">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p&gt;Peer feedback is ineffective because students don’t always provide correct advice. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150602123427+GFUst3</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150602123429+ewLgcM</version>
+        <hidden>1</hidden>
+        <timecreated>1433248467</timecreated>
+        <timemodified>1433248467</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2918">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2919">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="113">
+            <trueanswer>2918</trueanswer>
+            <falseanswer>2919</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="983">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p&gt;Which of the following instructional practices might help to develop self-efficacy in students? Choose all that apply. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150602123731+uz23hm</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150602123735+GH53FE</version>
+        <hidden>1</hidden>
+        <timecreated>1433248651</timecreated>
+        <timemodified>1433248651</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2920">
+              <answertext>&lt;p&gt;helping students identify signs of progress toward their goals &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2921">
+              <answertext>&lt;p&gt;providing explicit feedback that the student can use to improve &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2922">
+              <answertext>&lt;p&gt;providing grades so that students can see how they are doing &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2923">
+              <answertext>&lt;p&gt;modeling and describing effective strategies and how to think through a problem &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2924">
+              <answertext>&lt;p&gt;breaking big goals into smaller tasks at which they are more likely to succeed &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="488">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="984">
+        <parent>0</parent>
+        <name>Question 5</name>
+        <questiontext>&lt;p&gt;Which one of the following strategies will NOT help students develop a growth mindset? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150602123856+tddbeD</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150602123900+gEcJPS</version>
+        <hidden>1</hidden>
+        <timecreated>1433248736</timecreated>
+        <timemodified>1433248737</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2925">
+              <answertext>&lt;p&gt;at the end of class, inviting sharing about how students learned from a mistake that day&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2926">
+              <answertext>&lt;p&gt;praising effort&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2927">
+              <answertext>&lt;p&gt;praising intelligence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2928">
+              <answertext>&lt;p&gt;discussing students’ past successes (in jobs, school, personal life) and how they learned things that were difficult &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2929">
+              <answertext>&lt;p&gt;teaching students specific strategies for overcoming challenges &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="489">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="991">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"I set up a phone tree so that if a peer is absent, she receives a phone call from a classmate asking how she is, why she missed, whether she'll be back the next class. A learner would also use the phone tree to call someone if she was going to be absent and wanted to pass that message on to her classmates and the teacher."&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150929192526+UruDXE</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150929195045+RWYqh3</version>
+        <hidden>1</hidden>
+        <timecreated>1443554726</timecreated>
+        <timemodified>1443556244</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2950">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2951">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2952">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2953">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2954">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2955">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2956">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="494">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "encouraging collaboration and cooperation".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="992">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;Our curriculum includes career exploration, and we provide information on bridge and technical programs at our college. We ask students to look at their long-term goal and then help them break it down into the doable steps, the short-term goals that will get them there."&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150929193217+qWC6rQ</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150929193527+yEkbYy</version>
+        <hidden>1</hidden>
+        <timecreated>1443555137</timecreated>
+        <timemodified>1443555327</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2957">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2958">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2959">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2960">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2961">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2962">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2963">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="495">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "setting appropriate goals".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="994">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;Students want and need to know how they are progressing. One thing I do is give out a lot of quizzes—not to scare my students, but to show them how much they are learning. I am to the point now in my classes that my students come in the door and ask if we are having a quiz tonight because they want to take them.&lt;span style="line-height: 1.231;"&gt;"&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150929193651+lCFLNJ</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150929193652+ZRUuL9</version>
+        <hidden>1</hidden>
+        <timecreated>1443555411</timecreated>
+        <timemodified>1443555411</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2971">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2972">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2973">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2974">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2975">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2976">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2977">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="497">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "finding value".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="995">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;How do students see errors? I have been thinking of this for some time now. I prefer not to mark on the students' essays but to talk with them, one on one, about their strengths. Then I choose One Thing from their essay for them to work on. If you tell them everything that is wrong with their paper, they will be overwhelmed. I merely say, "Let's just work on X for now."&lt;span style="line-height: 1.231;"&gt;"&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150929193805+sY6kIK</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150929195110+K7njlC</version>
+        <hidden>1</hidden>
+        <timecreated>1443555485</timecreated>
+        <timemodified>1443556269</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2978">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2979">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2980">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2981">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2982">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2983">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2984">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="498">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "offering feedback to build a growth mindset".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="996">
+        <parent>0</parent>
+        <name>Question 5</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;Sometimes we think that we need to figure everything out rather than involving the students, as part of a learning community, in sorting things out together. I’ve had lots of conversations with students about the idea of persistence—what it is, why they think it matters, how they have persisted in other aspects of their lives, etc. All of those conversations have helped build problem-solving skills, helped students understand that in adult education they are taking responsibility for their learning, and directed their attention to strengths that they can build on in order to succeed.&lt;span style="line-height: 1.231;"&gt;"&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150929193922+DdWHAj</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150929193923+v1Kgp5</version>
+        <hidden>1</hidden>
+        <timecreated>1443555562</timecreated>
+        <timemodified>1443555562</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2985">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2986">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2987">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2988">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2989">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2990">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2991">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="499">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "reframing explanations in ways that motivate persistence".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="997">
+        <parent>0</parent>
+        <name>Question 6</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;We offer on-site childcare for the family literacy students. All students have access to bus tokens to help with transportation. We have the opportunity to work with local agencies to provide glasses and other services as needed. Our area has a Community Collaboration meeting each month where local agencies come together to offer what they have available to best serve the community. As students approach the instructors with their individual needs, instructors can offer referrals that enable the student to resolve current barriers.&lt;span style="line-height: 1.231;"&gt;"&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150929194106+Ok3UQB</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150929194107+rop3Fv</version>
+        <hidden>1</hidden>
+        <timecreated>1443555666</timecreated>
+        <timemodified>1443555666</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2992">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2993">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2994">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2995">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2996">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2997">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2998">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="500">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "overcoming systemic barriers to persistence".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="998">
+        <parent>0</parent>
+        <name>Question 7</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;Our ESL program reaches out to students &lt;em&gt;before&lt;/em&gt; they enroll. When students come to inquire about ESL classes, they are first scheduled for a 3-hour workshop. During this workshop, we explain our program, the progression of levels, and bridge program opportunities. We also discuss the time and level of commitment necessary to be successful and the need to set goals. Students have time to discuss in groups the various roles they have in life (mother, employee, etc.) and the barriers they face that make it difficult to come to school. They also discuss possible solutions to those barriers and the importance of planning to avert problems. Students are asked to discuss these issues with their families before returning to school to register for classes. I have noticed improved attendance and more students completing assignments outside of class since these workshops have been running. New teachers are encouraged to attend a workshop and help facilitate groups in order to better understand what our program is trying to accomplish and the barriers faced by students.&lt;span style="line-height: 1.231;"&gt;"&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150929194231+uGdm8E</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150929194232+m8z3lc</version>
+        <hidden>1</hidden>
+        <timecreated>1443555751</timecreated>
+        <timemodified>1443555751</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2999">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3000">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3001">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3002">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3003">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3004">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3005">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="501">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "encouraging collaboration &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; cooperation and overcoming systemic barriers".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="999">
+        <parent>0</parent>
+        <name>Strategy Matching Activity</name>
+        <questiontext>&lt;p&gt;&lt;span&gt;The following ideas about building motivation and persistence were shared by educators who took this course previously. Read each description and then match it to the Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011556+CBELzu</stamp>
+        <version>courses.lincs.ed.gov+151003011557+ZRCXuI</version>
+        <hidden>0</hidden>
+        <timecreated>1443834956</timecreated>
+        <timemodified>1443834956</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="75">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="401">
+              <questiontext>&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif;"&gt;I set up a phone tree so that if a peer is absent, she receives a phone call from a classmate asking how she is, why she missed, whether she'll be back the next class. A learner would also use the phone tree to call someone if she was going to be absent and wanted to pass that message on to her classmates and the teacher.&lt;/span&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Encouraging collaboration and cooperation</answertext>
+            </match>
+            <match id="402">
+              <questiontext>&lt;p&gt;Our curriculum includes career exploration, and we provide information on bridge and technical programs at our college. We ask students to look at their long-term goal and then help them break it down into the doable steps, the short-term goals that will get them there&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Setting appropriate goals</answertext>
+            </match>
+            <match id="403">
+              <questiontext>&lt;p&gt;Students want and need to know how they are progressing. One thing I do is give out a lot of quizzes—not to scare my students, but to show them how much they are learning. I am to the point now in my classes that my students come in the door and ask if we are having a quiz tonight because they want to take them.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Finding value</answertext>
+            </match>
+            <match id="404">
+              <questiontext>&lt;p&gt;How do students see errors? I have been thinking of this for some time now. I prefer not to mark on the students' essays but to talk with them, one on one, about their strengths. Then I choose One Thing from their essay for them to work on. If you tell them everything that is wrong with their paper, they will be overwhelmed. I merely say, "Let's just work on X for now."&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Offering feedback to build a growth mindset</answertext>
+            </match>
+            <match id="405">
+              <questiontext>&lt;p&gt;Sometimes we think that we need to figure everything out rather than involving the students, as part of a learning community, in sorting things out together. I’ve had lots of conversations with students about the idea of persistence—what it is, why they think it matters, how they have persisted in other aspects of their lives, etc. All of those conversations have helped build problem-solving skills, helped students understand that in adult education they are taking responsibility for their learning, and directed their attention to strengths that they can build on in order to succeed.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Reframing explanations in ways that motivate persistence</answertext>
+            </match>
+            <match id="406">
+              <questiontext>&lt;p&gt;We offer on-site childcare for the family literacy students. All students have access to bus tokens to help with transportation. We have the opportunity to work with local agencies to provide glasses and other services as needed. Our area has a Community Collaboration meeting each month where local agencies come together to offer what they have available to best serve the community. As students approach the instructors with their individual needs, instructors can offer referrals that enable the student to resolve current barriers.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Overcoming systemic barriers to persistence</answertext>
+            </match>
+            <match id="407">
+              <questiontext>&lt;p&gt;Our ESL program reaches out to students &lt;em&gt;before&lt;/em&gt; they enroll. When students come to inquire about ESL classes, they are first scheduled for a 3-hour workshop. During this workshop, we explain our program, the progression of levels, and bridge program opportunities. We also discuss the time and level of commitment necessary to be successful and the need to set goals. Students have time to discuss in groups the various roles they have in life (mother, employee, etc.) and the barriers they face that make it difficult to come to school. They also discuss possible solutions to those barriers and the importance of planning to avert problems. Students are asked to discuss these issues with their families before returning to school to register for classes. I have noticed improved attendance and more students completing assignments outside of class since these workshops have been running. New teachers are encouraged to attend a workshop and help facilitate groups in order to better understand what our program is trying to accomplish and the barriers faced by students. &lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Encouraging collaboration and cooperation and overcoming systemic barriers</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1000">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;What are three areas that research indicates classroom teachers should consider in relation to student motivation? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011557+BBnVT2</stamp>
+        <version>courses.lincs.ed.gov+151003011557+znLrmc</version>
+        <hidden>0</hidden>
+        <timecreated>1443834957</timecreated>
+        <timemodified>1443834957</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3006">
+              <answertext>&lt;p&gt;&lt;span class="nolink"&gt;setting appropriate goals&lt;/span&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3007">
+              <answertext>&lt;p&gt;monitoring progress &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3008">
+              <answertext>&lt;p&gt;providing appropriate feedback &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3009">
+              <answertext>&lt;p&gt;enforcing enrollment policies &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="502">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1001">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"I set up a phone tree so that if a peer is absent, she receives a phone call from a classmate asking how she is, why she missed, whether she'll be back the next class. A learner would also use the phone tree to call someone if she was going to be absent and wanted to pass that message on to her classmates and the teacher."&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011557+lVt6bi</stamp>
+        <version>courses.lincs.ed.gov+151003011557+Nifonp</version>
+        <hidden>0</hidden>
+        <timecreated>1443834957</timecreated>
+        <timemodified>1443834957</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3010">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3011">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3012">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3013">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3014">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3015">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3016">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="503">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "encouraging collaboration and cooperation".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1002">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"I set up a phone tree so that if a peer is absent, she receives a phone call from a classmate asking how she is, why she missed, whether she'll be back the next class. A learner would also use the phone tree to call someone if she was going to be absent and wanted to pass that message on to her classmates and the teacher."&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011557+XOYI2d</stamp>
+        <version>courses.lincs.ed.gov+151003011557+WnpmEK</version>
+        <hidden>0</hidden>
+        <timecreated>1443834957</timecreated>
+        <timemodified>1443834957</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3017">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3018">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3019">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3020">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3021">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3022">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3023">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="504">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "encouraging collaboration and cooperation".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1003">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;Our curriculum includes career exploration, and we provide information on bridge and technical programs at our college. We ask students to look at their long-term goal and then help them break it down into the doable steps, the short-term goals that will get them there."&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011557+ZrTAF4</stamp>
+        <version>courses.lincs.ed.gov+151003011557+UmSIon</version>
+        <hidden>0</hidden>
+        <timecreated>1443834957</timecreated>
+        <timemodified>1443834957</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3024">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3025">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3026">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3027">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3028">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3029">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3030">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="505">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "setting appropriate goals".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1004">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;Students want and need to know how they are progressing. One thing I do is give out a lot of quizzes—not to scare my students, but to show them how much they are learning. I am to the point now in my classes that my students come in the door and ask if we are having a quiz tonight because they want to take them.&lt;span style="line-height: 1.231;"&gt;"&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011557+PINsuh</stamp>
+        <version>courses.lincs.ed.gov+151003011558+oNHoku</version>
+        <hidden>0</hidden>
+        <timecreated>1443834957</timecreated>
+        <timemodified>1443834957</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3031">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3032">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3033">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3034">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3035">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3036">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3037">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="506">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "finding value".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1005">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p&gt;Which of the following instructional practices might help to develop self-efficacy in students? Choose all that apply. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011558+giyIgx</stamp>
+        <version>courses.lincs.ed.gov+151003011558+bt2qSJ</version>
+        <hidden>0</hidden>
+        <timecreated>1443834958</timecreated>
+        <timemodified>1443834958</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3038">
+              <answertext>&lt;p&gt;helping students identify signs of progress toward their goals &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3039">
+              <answertext>&lt;p&gt;providing explicit feedback that the student can use to improve &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3040">
+              <answertext>&lt;p&gt;providing grades so that students can see how they are doing &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3041">
+              <answertext>&lt;p&gt;modeling and describing effective strategies and how to think through a problem &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3042">
+              <answertext>&lt;p&gt;breaking big goals into smaller tasks at which they are more likely to succeed &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="507">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1006">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;How do students see errors? I have been thinking of this for some time now. I prefer not to mark on the students' essays but to talk with them, one on one, about their strengths. Then I choose One Thing from their essay for them to work on. If you tell them everything that is wrong with their paper, they will be overwhelmed. I merely say, "Let's just work on X for now."&lt;span style="line-height: 1.231;"&gt;"&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011558+YVfjBG</stamp>
+        <version>courses.lincs.ed.gov+151003011558+OfNbDP</version>
+        <hidden>0</hidden>
+        <timecreated>1443834958</timecreated>
+        <timemodified>1443834958</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3043">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3044">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3045">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3046">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3047">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3048">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3049">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="508">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "offering feedback to build a growth mindset".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1007">
+        <parent>0</parent>
+        <name>Question 5</name>
+        <questiontext>&lt;p&gt;Which one of the following strategies will NOT help students develop a growth mindset? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011558+OQcIgH</stamp>
+        <version>courses.lincs.ed.gov+151003011558+5rFQhK</version>
+        <hidden>0</hidden>
+        <timecreated>1443834958</timecreated>
+        <timemodified>1443834958</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3050">
+              <answertext>&lt;p&gt;at the end of class, inviting sharing about how students learned from a mistake that day&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3051">
+              <answertext>&lt;p&gt;praising effort&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3052">
+              <answertext>&lt;p&gt;praising intelligence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3053">
+              <answertext>&lt;p&gt;discussing students’ past successes (in jobs, school, personal life) and how they learned things that were difficult &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3054">
+              <answertext>&lt;p&gt;teaching students specific strategies for overcoming challenges &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="509">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1008">
+        <parent>0</parent>
+        <name>Question 5</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;Sometimes we think that we need to figure everything out rather than involving the students, as part of a learning community, in sorting things out together. I’ve had lots of conversations with students about the idea of persistence—what it is, why they think it matters, how they have persisted in other aspects of their lives, etc. All of those conversations have helped build problem-solving skills, helped students understand that in adult education they are taking responsibility for their learning, and directed their attention to strengths that they can build on in order to succeed.&lt;span style="line-height: 1.231;"&gt;"&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011559+6qMiGq</stamp>
+        <version>courses.lincs.ed.gov+151003011559+NH0zQo</version>
+        <hidden>0</hidden>
+        <timecreated>1443834959</timecreated>
+        <timemodified>1443834959</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3055">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3056">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3057">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3058">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3059">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3060">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3061">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="510">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "reframing explanations in ways that motivate persistence".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1009">
+        <parent>0</parent>
+        <name>Question 6</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;We offer on-site childcare for the family literacy students. All students have access to bus tokens to help with transportation. We have the opportunity to work with local agencies to provide glasses and other services as needed. Our area has a Community Collaboration meeting each month where local agencies come together to offer what they have available to best serve the community. As students approach the instructors with their individual needs, instructors can offer referrals that enable the student to resolve current barriers.&lt;span style="line-height: 1.231;"&gt;"&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011559+SrxCEV</stamp>
+        <version>courses.lincs.ed.gov+151003011559+JWXfEH</version>
+        <hidden>0</hidden>
+        <timecreated>1443834959</timecreated>
+        <timemodified>1443834959</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3062">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3063">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3064">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3065">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3066">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3067">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3068">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="511">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "overcoming systemic barriers to persistence".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1010">
+        <parent>0</parent>
+        <name>Question 7</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"&lt;/span&gt;Our ESL program reaches out to students &lt;em&gt;before&lt;/em&gt; they enroll. When students come to inquire about ESL classes, they are first scheduled for a 3-hour workshop. During this workshop, we explain our program, the progression of levels, and bridge program opportunities. We also discuss the time and level of commitment necessary to be successful and the need to set goals. Students have time to discuss in groups the various roles they have in life (mother, employee, etc.) and the barriers they face that make it difficult to come to school. They also discuss possible solutions to those barriers and the importance of planning to avert problems. Students are asked to discuss these issues with their families before returning to school to register for classes. I have noticed improved attendance and more students completing assignments outside of class since these workshops have been running. New teachers are encouraged to attend a workshop and help facilitate groups in order to better understand what our program is trying to accomplish and the barriers faced by students.&lt;span style="line-height: 1.231;"&gt;"&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011559+ykY6uR</stamp>
+        <version>courses.lincs.ed.gov+151003011559+93j90Q</version>
+        <hidden>0</hidden>
+        <timecreated>1443834959</timecreated>
+        <timemodified>1443834959</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3069">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3070">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3071">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3072">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3073">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3074">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3075">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="512">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "encouraging collaboration &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; cooperation and overcoming systemic barriers".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1011">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p&gt;Teaching digital literacy is motivational because it involves skills that students find relevant and useful. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011559+kW5zVS</stamp>
+        <version>courses.lincs.ed.gov+151003011559+O3J036</version>
+        <hidden>0</hidden>
+        <timecreated>1443834959</timecreated>
+        <timemodified>1443834959</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="3076">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3077">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="115">
+            <trueanswer>3076</trueanswer>
+            <falseanswer>3077</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1012">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p&gt;Peer feedback is ineffective because students don’t always provide correct advice. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>courses.lincs.ed.gov+151003011559+wGC7oZ</stamp>
+        <version>courses.lincs.ed.gov+151003011559+xt8lza</version>
+        <hidden>0</hidden>
+        <timecreated>1443834959</timecreated>
+        <timemodified>1443834959</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="3078">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3079">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="116">
+            <trueanswer>3078</trueanswer>
+            <falseanswer>3079</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1013">
+        <parent>0</parent>
+        <name>Strategy Matching Activity</name>
+        <questiontext>&lt;p&gt;&lt;span&gt;The following ideas about building motivation and persistence were shared by educators who took this course previously. Read each description and then match it to the Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150601195911+scIyH8</stamp>
+        <version>ovae-moodle-dev.myquotient.net+151002192353+sqDdJy</version>
+        <hidden>0</hidden>
+        <timecreated>1433188751</timecreated>
+        <timemodified>1443813832</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="76">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="408">
+              <questiontext>&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif;"&gt;I set up a phone tree so that if a peer is absent, she receives a phone call from a classmate asking how she is, why she missed, whether she'll be back the next class. A learner would also use the phone tree to call someone if she was going to be absent and wanted to pass that message on to her classmates and the teacher.&lt;/span&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Encouraging collaboration and cooperation</answertext>
+            </match>
+            <match id="409">
+              <questiontext>&lt;p&gt;Our curriculum includes career exploration, and we provide information on bridge and technical programs at our college. We ask students to look at their long-term goal and then help them break it down into the doable steps, the short-term goals that will get them there&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Setting appropriate goals</answertext>
+            </match>
+            <match id="410">
+              <questiontext>&lt;p&gt;Students want and need to know how they are progressing. One thing I do is give out a lot of quizzes—not to scare my students, but to show them how much they are learning. I am to the point now in my classes that my students come in the door and ask if we are having a quiz tonight because they want to take them.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Finding value</answertext>
+            </match>
+            <match id="411">
+              <questiontext>&lt;p&gt;How do students see errors? I have been thinking of this for some time now. I prefer not to mark on the students' essays but to talk with them, one on one, about their strengths. Then I choose One Thing from their essay for them to work on. If you tell them everything that is wrong with their paper, they will be overwhelmed. I merely say, "Let's just work on X for now."&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Offering feedback to build a growth mindset</answertext>
+            </match>
+            <match id="412">
+              <questiontext>&lt;p&gt;Sometimes we think that we need to figure everything out rather than involving the students, as part of a learning community, in sorting things out together. I’ve had lots of conversations with students about the idea of persistence—what it is, why they think it matters, how they have persisted in other aspects of their lives, etc. All of those conversations have helped build problem-solving skills, helped students understand that in adult education they are taking responsibility for their learning, and directed their attention to strengths that they can build on in order to succeed.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Reframing explanations in ways that motivate persistence</answertext>
+            </match>
+            <match id="413">
+              <questiontext>&lt;p&gt;We offer on-site childcare for the family literacy students. All students have access to bus tokens to help with transportation. We have the opportunity to work with local agencies to provide glasses and other services as needed. Our area has a Community Collaboration meeting each month where local agencies come together to offer what they have available to best serve the community. As students approach the instructors with their individual needs, instructors can offer referrals that enable the student to resolve current barriers.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Overcoming systemic barriers to persistence</answertext>
+            </match>
+            <match id="414">
+              <questiontext>&lt;p&gt;Our ESL program reaches out to students &lt;em&gt;before&lt;/em&gt; they enroll. When students come to inquire about ESL classes, they are first scheduled for a 3-hour workshop. During this workshop, we explain our program, the progression of levels, and bridge program opportunities. We also discuss the time and level of commitment necessary to be successful and the need to set goals. Students have time to discuss in groups the various roles they have in life (mother, employee, etc.) and the barriers they face that make it difficult to come to school. They also discuss possible solutions to those barriers and the importance of planning to avert problems. Students are asked to discuss these issues with their families before returning to school to register for classes. I have noticed improved attendance and more students completing assignments outside of class since these workshops have been running. New teachers are encouraged to attend a workshop and help facilitate groups in order to better understand what our program is trying to accomplish and the barriers faced by students. &lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Encouraging collaboration and cooperation and overcoming systemic barriers</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1014">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;&lt;span id="yui_3_13_0_2_1443554360472_227"&gt;The following idea about building motivation and persistence were shared by educators who took this course previously. Read the description and select which Motivation and Persistence strategy it illustrates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span&gt;"I set up a phone tree so that if a peer is absent, she receives a phone call from a classmate asking how she is, why she missed, whether she'll be back the next class. A learner would also use the phone tree to call someone if she was going to be absent and wanted to pass that message on to her classmates and the teacher."&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150929193316+GKJV5j</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150929193317+HbFdf1</version>
+        <hidden>0</hidden>
+        <timecreated>1443555196</timecreated>
+        <timemodified>1443555197</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="3080">
+              <answertext>&lt;p&gt;Setting appropriate goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3081">
+              <answertext>&lt;p&gt;Offering feedback to build a growth mindset&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3082">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation &lt;strong&gt;&lt;em&gt;and&lt;/em&gt;&lt;/strong&gt; overcoming systemic barriers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3083">
+              <answertext>&lt;p&gt;Overcoming systemic barriers to persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3084">
+              <answertext>&lt;p&gt;Finding value&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3085">
+              <answertext>&lt;p&gt;Reframing explanations in ways that motivate persistence&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3086">
+              <answertext>&lt;p&gt;Encouraging collaboration and cooperation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="513">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Incorrect. The correct answer is "encouraging collaboration and cooperation".&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="160">
+    <name>Default for Comprehension Check</name>
+    <contextid>15019</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>5010</contextinstanceid>
+    <info>The default category for questions shared in context 'Comprehension Check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150601210025+13XyS8</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="164">
+    <name>Default for Strategy Quiz</name>
+    <contextid>15088</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>5033</contextinstanceid>
+    <info>The default category for questions shared in context 'Strategy Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150929191846+p80ofR</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="165">
+    <name>Default for Strategy Quiz</name>
+    <contextid>15089</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>5034</contextinstanceid>
+    <info>The default category for questions shared in context 'Strategy Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150929191846+p80ofR</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

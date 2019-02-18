@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1216" moduleid="5004" modulename="page" contextid="15013">
+  <page id="1216">
+    <name>Highlights of Motivation and Persistence Strategies from Improving Adult Literacy: Supporting Learning and Motivation</name>
+    <intro>&lt;p&gt;&lt;span style="color: #ffffff;"&gt;.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h3 style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif;"&gt;Instructions:&lt;/span&gt;&lt;/h3&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif;"&gt;The list below highlights the 11 strategies that were noted in the Pre-Course Self-Assessment. For a recap of definitions see &lt;a href="@@PLUGINFILE@@/Descriptions_11_Principles.pdf"&gt;Descriptions of 11 Strategies&lt;/a&gt;. Be sure to read about any strategies for which you scored yourself a 1 or 2 in the self-assessment. &lt;/span&gt;&lt;/p&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif;"&gt; &lt;/span&gt;&lt;/h4&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif;"&gt;Building Learners’ Self-Efficacy&lt;/span&gt;&lt;/h4&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Setting appropriate goals&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Offering feedback to build a growth mindset&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Assisting learners in managing errors&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Reframing explanations in ways that motivate persistence (attributions)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Modeling literacy and learning strategies&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Using assessments appropriately&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif;"&gt;Using and Inspiring Learners’ Interests&lt;/span&gt;&lt;/h4&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Finding value&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Providing choice and autonomy&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Encouraging collaboration and cooperation&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;Additional Considerations&lt;/span&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;Overcoming systemic barriers to persistence&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;Addressing negative effects of stereotypes&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;&lt;br clear="all" /&gt;&lt;hr width="33%" size="1" align="left" /&gt;
+&lt;div id="ftn1"&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;Descriptions of each principle are taken from Chapter 3 (pp. 13–24) in &lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-189%20" title="Improving Adult Literacy" target="_blank"&gt;&lt;i&gt;Improving Adult Literacy: Supporting Learning and Motivation&lt;/i&gt;&lt;/a&gt;. They are reprinted with permission from the National Academy of Sciences, Courtesy of the National Academies Press, Washington, DC.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;&lt;a title="Return to main course page" href="$@COURSEVIEWBYID*132@$"&gt;Return to main course page&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>23</revision>
+    <timemodified>1439858048</timemodified>
+  </page>
+</activity>

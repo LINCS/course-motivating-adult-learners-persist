@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="139" moduleid="4996" modulename="resource" contextid="15005">
+  <resource id="139">
+    <name>Motivation and Persistence Strategies: Self-Assessment and Note-Taking Chart (Word)</name>
+    <intro>&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Besides being a self-assessment, the &lt;a title="MotivPersistStratChartv2" href="@@PLUGINFILE@@/MotivPersistStratChartv2.docx" target="_blank"&gt;Motivation and Persistence Strategies chart&lt;/a&gt; also serves as an electronic note-taking tool that you will return to periodically throughout this course and a document that you can download, save to your computer, and/or print.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 60px;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Be sure to read about any strategies for which you scored yourself a 1 or a 2 in the self-assessment.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:860;s:11:"popupheight";i:650;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>13</revision>
+    <timemodified>1439922432</timemodified>
+  </resource>
+</activity>

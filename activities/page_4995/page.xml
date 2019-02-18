@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1215" moduleid="4995" modulename="page" contextid="15004">
+  <page id="1215">
+    <name>Navigation Tips</name>
+    <intro>&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Recommended navigational features.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;There are two basic ways to navigate on this site effectively. They are as follows:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Use the bread crumb. The bread crumb trail appears horizontally at the top of the web page and provides links to each of the previous pages used to get to the current location. It allows you to click on the link to jump back to any of the previous pages. The picture below is an example of a bread crumb trail in another course.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Bread%20Crumb%20Example.jpg" alt="Bread Crumb Example" height="83" width="750" /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Use the Navigation block.  This appears to the left.  &lt;span style="background-color: #888888;"&gt;&lt;/span&gt;Below is a video that explains how to use this feature.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="margin-left: 60px; text-align: left;"&gt;&lt;iframe src="https://www.youtube-nocookie.com/embed/l5WnSpoLHlI?autohide=0" allowfullscreen="" frameborder="0" height="252" width="448"&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>42</revision>
+    <timemodified>1440192657</timemodified>
+  </page>
+</activity>

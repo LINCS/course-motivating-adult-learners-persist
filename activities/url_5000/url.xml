@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="127" moduleid="5000" modulename="url" contextid="15009">
+  <url id="127">
+    <name>Course Evaluation Survey</name>
+    <intro>&lt;p&gt;Please provide feedback on this course by clicking on the survey link below.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://www.surveygizmo.com/s3/4467404/Teaching-and-Learning-Teacher-Effectiveness-Motivating-Adult-Learners-to-Persist</externalurl>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:620;s:11:"popupheight";i:450;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1535474274</timemodified>
+  </url>
+</activity>

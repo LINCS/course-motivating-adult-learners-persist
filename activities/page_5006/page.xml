@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1218" moduleid="5006" modulename="page" contextid="15015">
+  <page id="1218">
+    <name>Suggested Alternatives to Unit 1 Video</name>
+    <intro>&lt;p&gt;&lt;span style="color: #ffffff;"&gt;.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Below are some options for selecting an alternative video:&lt;span style="text-decoration: underline;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;
+&lt;h4&gt;&lt;span style="font-size: small;"&gt;&lt;a title="Link to Teaching Channel Website" href="https://www.teachingchannel.org/videos?default=1" target="_blank"&gt;Teaching Channel Website&lt;/a&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="margin-left: 60px; text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;a title="Link to Teaching Channel Website" href="https://www.teachingchannel.org/videos?default=1" target="_blank"&gt;&lt;/a&gt;&lt;/span&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;The Teaching Channel website features K–12-oriented videos that are professionally made. These include many related to English language arts and math, and so may be comparable, in some cases, to topics and skills addressed in adult basic education (ABE) instruction. You need to create a free account to access these videos, but anyone may do so.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="margin-left: 60px; text-align: left;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;One video that is particularly relevant to this course is titled &lt;em&gt;My Favorite No:  Learning From Mistakes&lt;/em&gt; with instructor Leah Alcala, and runs approximately 6 minutes. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li style="margin-left: 60px;"&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;Another video relevant to this course is titled &lt;em&gt;Persistence in Problem Solving&lt;/em&gt; with instructor Jen Saul, and runs 5 minutes.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;a title="Link to MLoTS Website" href="http://www.mlots.org" target="_blank"&gt;Media Library of Teaching Skills (MLoTS) Website&lt;/a&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="margin-left: 60px; text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;MLoTS is&lt;b&gt; &lt;/b&gt;a free, digital collection of short, authentic classroom videos intended for adult basic education professional development. The videos are on YouTube and can be viewed on the MLoTs site, which also provides supportive text materials (e.g., downloadable standards-based lesson plans and discussion questions). You do not need to create an account to view these videos. Some of the videos featured have been made by adult educators themselves.  &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;span style="color: #566ea9;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Making Your Own Video&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left; margin-left: 30px;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;/span&gt; &lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;You may instead prefer to videotape yourself teaching a class or arrange to observe or videotape a colleague's class. For help, see the tips listed in &lt;a title="Harnessing Technology" href="$@PAGEVIEWBYID*5005@$" target="_blank"&gt;Harnessing Technology&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="margin-left: 30px; text-align: left;"&gt;
+&lt;p&gt;One video that is particularly relevant to this course is titled &lt;em&gt;Reading Instructional Strategies Summarizing: Activating Prior Knowledge&lt;/em&gt; with instructor Kay Combs, and runs 4.5 minutes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li style="margin-left: 30px;"&gt;
+&lt;p style="text-align: left;"&gt;Another video relevant to this course is titled &lt;em&gt;Ratio and Proportion&lt;/em&gt;,&lt;em&gt; Accepting Student Responses&lt;/em&gt; with instructor Abby Magee, and runs 4.5 minutes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>15</revision>
+    <timemodified>1439857239</timemodified>
+  </page>
+</activity>

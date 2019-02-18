@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1219" moduleid="5007" modulename="page" contextid="15016">
+  <page id="1219">
+    <name>Invitation to Check in with Other Educators </name>
+    <intro>&lt;p&gt;desc&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;Where appropriate, consider doing one or more of the following:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;1) Take this course with a peer and talk about what you are discovering as you move through it together.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;2) Discuss questions with a colleague in your program (beginning teacher, seasoned educator, program coordinator, etc.)&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;3) Partner with a colleague in an Induction Program: The &lt;a title="Teacher Effectiveness in Adult Education landing page" href="http://lincs.ed.gov/programs/teachereffectiveness" target="_blank"&gt;Teacher Effectiveness in Adult Education landing page&lt;/a&gt; and, in particular, &lt;em&gt;The Mentoring Guide for Teacher Induction&lt;/em&gt; provides detailed support for beginning teachers and mentors moving through this course. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;4) Select question(s) to discuss at a staff meeting to find out about related instructional practices teachers in your program engage in. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;5) Reach out to other educators across the country through the &lt;a title="Motivating Adult Learners Course Discussion Thread" href="https://community.lincs.ed.gov/discussion/motivating-adult-learners-persist-online-course" target="_blank"&gt;course thread&lt;/a&gt; in the Evidence-based Professional Development Community of Practice (CoP).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;Discover what past course participants have said.&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;Connect with current CoP members. &lt;/li&gt;
+&lt;/ul&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1439835678</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="53" moduleid="5010" modulename="quiz" contextid="15019">
+  <quiz id="53">
+    <name>Comprehension Check</name>
+    <intro>&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a title="Unit 1:  Knowledge Building Activities Link" href="$@BOOKVIEWBYIDCH*4997*517@$"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Continue with &lt;/span&gt;Unit 1: Knowledge Building Activities&lt;/a&gt; or&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;a title="Main Course Page" href="$@COURSEVIEWBYID*132@$"&gt;Return to main course page&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69904</reviewattempt>
+    <reviewcorrectness>4368</reviewcorrectness>
+    <reviewmarks>4368</reviewmarks>
+    <reviewspecificfeedback>0</reviewspecificfeedback>
+    <reviewgeneralfeedback>0</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4368</reviewoverallfeedback>
+    <questionsperpage>0</questionsperpage>
+    <navmethod>free</navmethod>
+    <shufflequestions>0</shufflequestions>
+    <shuffleanswers>1</shuffleanswers>
+    <questions>980,981,982,983,984,0</questions>
+    <sumgrades>10.00000</sumgrades>
+    <grade>10.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1439831697</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <question_instances>
+      <question_instance id="378">
+        <question>980</question>
+        <grade>2.0000000</grade>
+      </question_instance>
+      <question_instance id="379">
+        <question>981</question>
+        <grade>2.0000000</grade>
+      </question_instance>
+      <question_instance id="380">
+        <question>982</question>
+        <grade>2.0000000</grade>
+      </question_instance>
+      <question_instance id="381">
+        <question>983</question>
+        <grade>2.0000000</grade>
+      </question_instance>
+      <question_instance id="382">
+        <question>984</question>
+        <grade>2.0000000</grade>
+      </question_instance>
+    </question_instances>
+    <feedbacks>
+      <feedback id="85">
+        <feedbacktext>&lt;p&gt;Well done!&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>7.50000</mingrade>
+        <maxgrade>11.00000</maxgrade>
+      </feedback>
+      <feedback id="86">
+        <feedbacktext>&lt;p&gt;&lt;span&gt;Please attempt the quiz again. You must get at least 75 percent in order to receive a certificate of completion for this course.&lt;/span&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.10000</mingrade>
+        <maxgrade>7.50000</maxgrade>
+      </feedback>
+      <feedback id="87">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>0.10000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>
